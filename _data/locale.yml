@@ -166,4 +166,30 @@ tr: &TR
   EMAIL_US                : "Bize email ile ulaşın."
   COPYRIGHT_DATES         : "2021"
 
+## => Russian
+########################
+ru: &RU
+  SUBSCRIBE               : "Подписаться"
+  READMORE                : "Читать далее"
+  SEARCH                  : "Искать"
+  CANCEL                  : "Отменить"
+  VIEWS                   : "Просмотров"
+  LAST_UPDATED            : "Обновлено"
+  PREVIOUS                : "Предыдущая страница"
+  NEXT                    : "Следующая страница"
+  ARTICLE_DATE_FORMAT     : "%d %b, %Y"
+  ARTICLE_LIST_DATE_FORMAT: "%d %b"
+  STATISTICS              : "[POST_COUNT] статей, [PAGE_COUNT] страниц."
+  LICENSE_ANNOUNCE        : "Ce travail est sous licence [LICENSE]."
+  POST_ON_GITHUB          : "Modifier sur Github"
+  FOLLOW_ME               : "Suivez-moi sur [NAME]."
+  FOLLOW_US               : "Suivez-nous sur [NAME]."
+  EMAIL_ME                : "Envoyez-moi un courriel."
+  EMAIL_US                : "Envoyez-nous un courriel"
+  COPYRIGHT_DATES         : "2022"
+  DONATE                  : "Faites un don de [NAME]."
+
+ru-RU:
+  <<: *RU
+
 # @end locale config
